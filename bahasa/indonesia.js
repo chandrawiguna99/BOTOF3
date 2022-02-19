@@ -690,9 +690,9 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 `
 }
 exports.welcome = () =>{
-	return`Semoga Betah Kak 🤗
+	return`
 	
-
+	Semoga Betah Kak🤗
 }
 exports.leave = () =>{
 	return`Yah kok out 😣 Mental aman kan kak >.<
